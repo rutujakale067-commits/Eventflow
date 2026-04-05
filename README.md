@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EventFlow — Complete Event Management Platform v1.1
 ### Production-Ready · React + Node + MongoDB · RBAC · Analytics · QR Tickets · Notifications
 
@@ -471,3 +472,6 @@ GET    /api/admin/analytics/user-growth              Chart data
 ---
 
 *EventFlow v1.1 — Built for production* 🚀
+=======
+# Eventflow
+>>>>>>> d84fb03d82b8db21b84dd3045cd22d1a72bce20f
